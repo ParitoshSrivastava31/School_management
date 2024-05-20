@@ -228,8 +228,8 @@ export function HeroSection() {
                 <Card className="bg-white dark:bg-gray-950 p-6 shadow-sm">
                   <div className="space-y-4">
                     <blockquote className="text-lg font-semibold leading-snug">
-                      "The school attendance system has been a game-changer for our school. It's easy to use and has
-                      saved us so much time."
+                      The school attendance system has been a game-changer for our school. Its easy to use and has
+                      saved us so much time.
                     </blockquote>
                     <div className="flex items-center space-x-4">
                       <Avatar>
@@ -246,8 +246,8 @@ export function HeroSection() {
                 <Card className="bg-white dark:bg-gray-950 p-6 shadow-sm">
                   <div className="space-y-4">
                     <blockquote className="text-lg font-semibold leading-snug">
-                      "I love how the attendance system integrates with our school's information system. It's a seamless
-                      experience."
+                      I love how the attendance system integrates with our schools information system. Its a seamless
+                      experience.
                     </blockquote>
                     <div className="flex items-center space-x-4">
                       <Avatar>
