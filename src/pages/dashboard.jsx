@@ -299,8 +299,8 @@ export default function Dashboard() {
                         <StarIcon className="h-4 w-4" />
                       </div>
                       <p className="text-sm text-gray-500 dark:text-gray-400">
-                        "The school has been amazing for my child. The teachers are dedicated and the curriculum is
-                        challenging yet engaging."
+                        The school has been amazing for my child. The teachers are dedicated and the curriculum is
+                        challenging yet engaging.
                       </p>
                     </div>
                   </div>
@@ -326,8 +326,8 @@ export default function Dashboard() {
                         <StarIcon className="h-4 w-4" />
                       </div>
                       <p className="text-sm text-gray-500 dark:text-gray-400">
-                        "The school has been amazing for my child. The teachers are dedicated and the curriculum is
-                        challenging yet engaging."
+                        The school has been amazing for my child. The teachers are dedicated and the curriculum is
+                        challenging yet engaging.
                       </p>
                     </div>
                   </div>

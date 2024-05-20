@@ -264,8 +264,8 @@ export function HeroSection() {
                 <Card className="bg-white dark:bg-gray-950 p-6 shadow-sm">
                   <div className="space-y-4">
                     <blockquote className="text-lg font-semibold leading-snug">
-                      "The attendance system has made it so much easier for our teachers to keep track of student
-                      attendance. Highly recommended!"
+                      The attendance system has made it so much easier for our teachers to keep track of student
+                      attendance. Highly recommended!
                     </blockquote>
                     <div className="flex items-center space-x-4">
                       <Avatar>
